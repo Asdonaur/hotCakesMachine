@@ -1,0 +1,14 @@
+Play
+Options
+Quit
+Language
+Sound: ON
+Sound: OFF
+Music: ON
+Music: OFF
+Credits
+Main Developer:
+Fonts & Sounds:
+Used software:
+Back
+Retry

@@ -1,0 +1,23 @@
+plo 0
+ani 5
+cam
+txt Ugh...!
+txt You are making me mad!
+txt If you are not a criminal...
+txt Then answer this question.
+stm
+txt Are you an infiltrated agent?
+cam
+pta
+wai 0.5
+plo 2
+wai 0.5
+plo 3
+wai 0.5
+plo 0
+wai 0.5
+cam
+txt Yes, you are!
+txt I know your intentions!
+txt Face the consequences!
+cam

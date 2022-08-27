@@ -1,0 +1,11 @@
+ani 3
+wai 1
+plo 0
+cam
+txt ...
+stm
+txt Nada mal...
+txt Para un CRIMINAL.
+ani 4
+txt ¡Trae los ingredientes si es que puedes!
+cam

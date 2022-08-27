@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: a732d3cc53bd18843b3600d8c392bd61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6648502706044978428
+    second: sprCAKE_0
+  - first:
+      213: 3722994455262413472
+    second: sprCAKE_1
+  - first:
+      213: 6490649338938226559
+    second: sprCAKE_2
+  - first:
+      213: 719075860640596677
+    second: sprCAKE_3
+  - first:
+      213: 5716282197127871013
+    second: sprCAKE_4
+  - first:
+      213: -6247540730415955812
+    second: sprCAKE_5
+  - first:
+      213: 1759170508082906907
+    second: sprCAKE_6
+  - first:
+      213: -6396974443655331549
+    second: sprCAKE_7
+  - first:
+      213: -6769412038758320768
+    second: sprCAKE_8
+  - first:
+      213: 7415663107065685189
+    second: sprCAKE_9
+  - first:
+      213: -2862257433199922004
+    second: sprCAKE_10
+  - first:
+      213: -6931964099760524041
+    second: sprCAKE_11
+  - first:
+      213: -8969162930149209241
+    second: sprCAKE_12
+  - first:
+      213: -2924518463054899135
+    second: sprCAKE_13
+  - first:
+      213: -8470187575791089887
+    second: sprCAKE_14
+  - first:
+      213: 485072608171005080
+    second: sprCAKE_15
+  - first:
+      213: -151570810385461808
+    second: sprCAKE_16
+  - first:
+      213: 6489412787375313089
+    second: sprCAKE_17
+  - first:
+      213: -8508802354529232508
+    second: sprCAKE_18
+  - first:
+      213: -5986272146159950851
+    second: sprCAKE_19
+  - first:
+      213: 5424524814973416191
+    second: sprCAKE_20
+  - first:
+      213: -3901098386927674970
+    second: sprCAKE_21
+  - first:
+      213: -624049204707357846
+    second: sprCAKE_22
+  - first:
+      213: 5953645082052190191
+    second: sprCAKE_23
+  - first:
+      213: 467949886875273870
+    second: sprCAKE_24
+  - first:
+      213: 4934141969606956970
+    second: sprCAKE_25
+  - first:
+      213: -8096588148936428108
+    second: sprCAKE_26
+  - first:
+      213: 6229529423168147186
+    second: sprCAKE_27
+  - first:
+      213: -5648065013884152841
+    second: sprCAKE_28
+  - first:
+      213: 4123930336058757197
+    second: sprCAKE_29
+  - first:
+      213: 6925683771189820394
+    second: sprCAKE_0
+  - first:
+      213: 5854753172033641278
+    second: sprCAKE_1
+  - first:
+      213: 9197804293464254173
+    second: sprCAKE_2
+  - first:
+      213: -6860425310567571898
+    second: sprCAKE_3
+  - first:
+      213: -8969557992630940279
+    second: sprCAKE_4
+  - first:
+      213: -1204945568980978467
+    second: sprCAKE_5
+  - first:
+      213: -9195474518639449343
+    second: sprCAKE_6
+  - first:
+      213: -8021130667705224625
+    second: sprCAKE_7
+  - first:
+      213: -6122302418325561524
+    second: sprCAKE_8
+  - first:
+      213: -2047382645029357741
+    second: sprCAKE_9
+  - first:
+      213: 8786024753240643013
+    second: sprCAKE_10
+  - first:
+      213: -6984230570309318173
+    second: sprCAKE_11
+  - first:
+      213: 210323560317540117
+    second: sprCAKE_12
+  - first:
+      213: 6552559195707650711
+    second: sprCAKE_13
+  - first:
+      213: -1117673932153681863
+    second: sprCAKE_14
+  - first:
+      213: 3973388101348564005
+    second: sprCAKE_15
+  - first:
+      213: 892418594022647408
+    second: sprCAKE_16
+  - first:
+      213: -5869147121091587092
+    second: sprCAKE_17
+  - first:
+      213: -1396565400381735034
+    second: sprCAKE_18
+  - first:
+      213: -7065792772648733005
+    second: sprCAKE_19
+  - first:
+      213: 1389539034870722723
+    second: sprCAKE_20
+  - first:
+      213: -6025515806712904346
+    second: sprCAKE_21
+  - first:
+      213: 6819520755686583589
+    second: sprCAKE_22
+  - first:
+      213: -8320429385831619868
+    second: sprCAKE_23
+  - first:
+      213: 4030942585089356891
+    second: sprCAKE_24
+  - first:
+      213: 5738798217094554380
+    second: sprCAKE_25
+  - first:
+      213: -1001633693866276019
+    second: sprCAKE_26
+  - first:
+      213: -2958411682344455320
+    second: sprCAKE_27
+  - first:
+      213: 5353141689999820670
+    second: sprCAKE_28
+  - first:
+      213: 1474650800883583894
+    second: sprCAKE_29
+  - first:
+      213: -2403240233132439200
+    second: sprCAKE_30
+  - first:
+      213: 1209516143457139691
+    second: sprCAKE_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprCAKE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf47032b8fc1060800000000000000
+      internalID: 6925683771189820394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2160
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b18aa7df2404150800000000000000
+      internalID: 5854753172033641278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ef79d54a25af70800000000000000
+      internalID: 9197804293464254173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2016
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5583378fdac0a0800000000000000
+      internalID: -6860425310567571898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d87f8478ab58380800000000000000
+      internalID: -8969557992630940279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1872
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4353b936c274fe0800000000000000
+      internalID: -1204945568980978467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be65f15ac136080800000000000000
+      internalID: -9195474518639449343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42307ec7283fa090800000000000000
+      internalID: -8021130667705224625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f903c4366390ba0800000000000000
+      internalID: -6122302418325561524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1584
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357b9b3f45c3693e0800000000000000
+      internalID: -2047382645029357741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c592b476fa3ee970800000000000000
+      internalID: 8786024753240643013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1440
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e90a43ec47031f90800000000000000
+      internalID: -6984230570309318173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175f9ce9283be200800000000000000
+      internalID: 210323560317540117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1296
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792bfdd1fdd5fea50800000000000000
+      internalID: 6552559195707650711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938044bfa793d70f0800000000000000
+      internalID: -1117673932153681863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c15af1d6f442730800000000000000
+      internalID: 3973388101348564005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766ca7abf1826c00800000000000000
+      internalID: 892418594022647408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce354d81ac99c8ea0800000000000000
+      internalID: -5869147121091587092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f35acea276e9ce0800000000000000
+      internalID: -1396565400381735034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ffb1d8e241fd90800000000000000
+      internalID: -7065792772648733005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0320fd362a84310800000000000000
+      internalID: 1389539034870722723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66540606c41116ca0800000000000000
+      internalID: -6025515806712904346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2a15fefdc3ae50800000000000000
+      internalID: 6819520755686583589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e8ce9e85e78c80800000000000000
+      internalID: -8320429385831619868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54fe3e9ce8c0f730800000000000000
+      internalID: 4030942585089356891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e09fa29e44af40800000000000000
+      internalID: 5738798217094554380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc90a567b7912f0800000000000000
+      internalID: -1001633693866276019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8633e7ecf3c91f6d0800000000000000
+      internalID: -2958411682344455320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7706c0410e2a4a40800000000000000
+      internalID: 5353141689999820670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b49622713077410800000000000000
+      internalID: 1474650800883583894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c63aadb9f5aed0800000000000000
+      internalID: -2403240233132439200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCAKE_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfcd0368019c010800000000000000
+      internalID: 1209516143457139691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f22a80a5b33c27489f53e0e570ec1c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

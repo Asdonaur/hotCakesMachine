@@ -1,0 +1,14 @@
+Jugar
+Opciones
+Salir
+Idioma
+Sonido: SI
+Sonido: NO
+Musica: SI
+Musica: NO
+Creditos
+Desarrollador:
+Fuentes, Sonidos:
+Programas usados:
+Volver
+Reintentar

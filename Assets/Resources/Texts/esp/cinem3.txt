@@ -1,0 +1,23 @@
+plo 0
+ani 5
+cam
+txt ¡Ugh...!
+txt ¡Me estas haciendo enfadar!
+txt Si no eres un criminal...
+txt Responde a mi pregunta.
+stm
+txt ¿Eres un agente infiltrado?
+cam
+pta
+wai 0.5
+plo 2
+wai 0.5
+plo 3
+wai 0.5
+plo 0
+wai 0.5
+cam
+txt ¡Si lo eres!
+txt ¡Tambien sé a que vienes!
+txt ¡Vas a pagar caro!
+cam

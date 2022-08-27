@@ -1,0 +1,26 @@
+plo 0
+wai 0.5
+cam
+txt Um... Hi!
+wai 0.2
+txt Are you the new worker?
+ani 1
+txt Welcome! My name is B.A.K.E.!
+ani 2
+txt If you give me the ingredients, I can make the best hotcakes in the world!
+ani 0
+txt I need 1 Flour Sack and 1 Milk Box!
+cam
+spw
+wai 1
+plo 2
+wai 0.5
+plo 3
+wai 0.7
+plo 0
+cam
+ani 1
+txt Oh! How convenient!
+ani 0
+txt Bring me those ingredients so I can start cooking!
+cam

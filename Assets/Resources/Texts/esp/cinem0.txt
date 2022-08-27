@@ -1,0 +1,26 @@
+plo 0
+wai 0.5
+cam
+txt Um... ¡Hola!
+wai 0.2
+txt ¿Eres el nuevo trabajador?
+ani 1
+txt ¡Bienvenido! Puedes llamarme B.A.K.E.
+ani 2
+txt Si me traes los ingredientes, ¡Puedo hacer los mejores Hot Cakes de mundo!
+ani 0
+txt Sólo necesito un saco de harina y una caja de leche.
+cam
+spw
+wai 1
+plo 2
+wai 0.5
+plo 3
+wai 0.7
+plo 0
+cam
+ani 1
+txt ¡Oh! ¡Qué conveniente!
+ani 0
+txt ¡Traeme esos ingredientes para poder empezar!
+cam

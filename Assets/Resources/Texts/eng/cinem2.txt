@@ -1,0 +1,11 @@
+wai 1
+ani 3
+plo 0
+cam
+txt ...
+stm
+txt Not bad...
+txt For a CRIMINAL.
+ani 4
+txt Make hotcakes if you can!
+cam

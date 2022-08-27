@@ -1,0 +1,18 @@
+wai 1.5
+plo 0
+cam
+ani 2
+txt That was delicious, don't you think?
+txt With the same ingredients, I could also send another plate to a person just waking up!
+ani 0
+txt So they can start the day with the flavor of hotcakes!
+ani 1
+txt So, that's all you have to do!
+ani 0
+txt Bring me ingredients so you and a random person get a plate!
+cam
+spw
+wai 2.2
+cam
+txt Come on!
+cam

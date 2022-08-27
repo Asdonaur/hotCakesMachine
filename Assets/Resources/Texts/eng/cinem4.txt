@@ -1,0 +1,77 @@
+wai 1.5
+ani 6
+cam
+txt I-I have so many questions...
+ani 7
+txt How were you able to survive everything I just trown to you?
+txt How is your body capable of eating that much flour and run everywere?
+ani 8
+txt And most importantly...
+ani 7
+txt What do you want from us?
+cam
+pwa 0
+pwa 0
+pwa 0
+wai 0.2
+pta
+pta
+wai 0.4
+cam
+wai 1
+txt You say you are not an agent?
+txt How do you want me to believe you?!
+txt Our boss told me yesterday that today someone was going to disguise as a new worker.
+txt So he could find a way to take our industries down!
+wai 0.2
+pta
+pta
+wai 0.4
+ani 11
+txt Yesterday... was April 1st!?
+ani 7
+txt I-I don't know anything about dates!
+wai 1.2
+ani 8
+txt But I guess you still deserve a apologize.
+txt Nobody told me April 1st is a day for pranking.
+ani 6
+txt I just wanted to do a better job.
+ani 8
+txt I mean, It's nice to make a lot of people's mornings happier, but...
+txt All I do is just wait for a worker to bring me ingredients.
+txt When our boss told me about the spy, I wanted to do something incredible!
+ani 10
+txt Stop an agent from probably destroying our industries!
+txt Maybe with a strategy, like an ambush!
+ani 8
+txt But... It was actually backwards...
+txt A poor worker just wanted to join us...
+txt And then a maniatic machine just tried to destroy him with no aparent reason.
+txt When someone finds out about this, I will be considered a danger.
+txt They will probably disconnect me.
+txt But I guess I deserve it...
+wai 0.2
+pta
+pta
+wai 0.4
+ani 11
+txt W-WHAT?!
+txt Are you not going to tell anything?
+txt Are you forgiving me?
+wai 0.2
+pta
+wai 0.8
+ani 8
+txt Do you think I don't deserve that?
+ani 9
+txt T-Thank you so much!
+txt Not only for me, but also a lot of people would not get their morning hotcakes if it wasn't for you!
+wai 1.2
+ani 10
+txt By the way, you finished your turn.
+txt Go to the entrace and ask for your payments.
+ani 9
+txt And see you tomorrow!
+cam
+end

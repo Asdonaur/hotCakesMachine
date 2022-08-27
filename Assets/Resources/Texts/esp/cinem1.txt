@@ -1,0 +1,18 @@
+wai 1.5
+plo 0
+cam
+ani 2
+txt Delicioso, ¿verdad?
+txt Con los mismos ingredientes, ¡puedo enviar otro plato a una persona recién despertándose!
+ani 0
+txt ¡Así empezarán su día con el sabor de unos Hotcakes!
+ani 1
+txt Pues... ¡Eso es todo lo que tienes que hacer!
+ani 0
+txt ¡Traeme los ingredientes para que tú y una persona más puedan disfrutarlos!
+cam
+spw
+wai 2.2
+cam
+txt ¡Vamos!
+cam

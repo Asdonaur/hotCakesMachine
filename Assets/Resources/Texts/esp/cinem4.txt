@@ -1,0 +1,77 @@
+wai 1.5
+ani 6
+cam
+txt Tengo muchas preguntas...
+ani 7
+txt ¿Cómo sobreviviste a todo eso?
+txt ¿Cómo es tu cuerpo capáz de comer tanta harina y correr a todas partes?
+ani 8
+txt Y lo mas importante...
+ani 7
+txt ¿Qué quieres de nosotros?
+cam
+pwa 0
+pwa 0
+pwa 0
+wai 0.2
+pta
+pta
+wai 0.4
+cam
+wai 1
+txt ¿Que no eres un agente?
+txt ¿Cómo te voy a creer?
+txt El jefe nos dijo ayer que hoy vendría un agente infiltrado como trabajador...
+txt ¡Para buscar una forma de destruir nuestro negocio!
+wai 0.2
+pta
+pta
+wai 0.4
+ani 11
+txt ¿Ayer era 1 de Abril?
+ani 7
+txt ¡N-No sé nada sobre fechas!
+wai 1.2
+ani 8
+txt Supongo que sigues mereciendo una disculpa.
+txt Nadie me había dicho que el 1 de Abril es un día para bromear.
+ani 6
+txt Sólo quize hacer un mejor trabajo.
+ani 8
+txt Digo, es bonito hacer felices las mañanas de las personas, pero...
+txt Todo lo que hago es estar aquí, esperando a que me traigan cosas.
+txt Cuando me dijeron lo del agente, ¡tuve una idea maravillosa!
+ani 10
+txt ¡Detenerlo antes de que hiciera algo!
+txt Talvez con una estrategia, una emboscada, por ejemplo.
+ani 8
+txt Pero... Al final era todo al revés...
+txt Una persona decidió unirse a nosotros...
+txt Para luego ser atacado por una maquina sin razón aparente.
+txt En cuanto alguien se entere de esto, me va a caer una buena.
+txt Posiblemente me desconecten para evitar que esto vuelva a suceder.
+txt Supongo que me lo merezco...
+wai 0.2
+pta
+pta
+wai 0.4
+ani 11
+txt ¿QUE?
+txt ¿No dirás nada?
+txt ¿Vas a perdonarme?
+wai 0.2
+pta
+wai 0.8
+ani 8
+txt ¿Piensas que no merezco eso?
+ani 9
+txt ¡G-Gracias, de verdad!
+txt No solo por mi, ¡tambien por las personas que no hubieran desayunado Hot Cakes esta mañana si no fuera por tí!
+wai 1.2
+ani 10
+txt Por cierto, terminaste tu turno.
+txt Ve a la entrada y pregunta por tu paga.
+ani 9
+txt ¡Nos vemos mañana!
+cam
+end
