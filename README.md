@@ -5,6 +5,7 @@ This one is highly inspired in *Just One Boss*, another game with similar mechan
 
 Even though the difficulty curve is a bit off, I am proud of how this game turned out.
 
+-----------------------------
 
 Playable version: https://asdonaur.itch.io/hot-cakes-machine
 
