@@ -11,6 +11,8 @@ Playable version: https://asdonaur.itch.io/hot-cakes-machine
 
 More info about Mejorando Ando (the page is in spanish): https://watanoge.com/mejorando-ando/
 
+-----------------------------
+
 ## What can you do with this code?
 - You can download the code and run it in Unity.
 - You can modify the code to make mods, and publish them to the internet, giving respective credits (Asdonaur, for creating the base game)
